@@ -16,9 +16,9 @@ Suppose you want to model temperature in a metal rod.
 
 A standard ANN learns:
 
-[
+\[
 (x,t) \rightarrow T(x,t)
-]
+\]
 
 using measured temperatures.
 
