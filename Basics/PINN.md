@@ -48,12 +48,12 @@ Loss = Loss_{data}
 
 For PINNs:
 
-[
+\[
 Loss =
 Loss_{data}
 +
 \lambda Loss_{physics}
-]
+\]
 
 where
 
