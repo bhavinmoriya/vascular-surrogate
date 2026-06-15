@@ -24,13 +24,13 @@ using measured temperatures.
 
 A PINN learns the same mapping but additionally enforces the **heat equation**:
 
+$$
 [
-\frac{\partial T}{\partial t}
-=============================
-
+\frac{\partial T}{\partial t} =
 \alpha
 \frac{\partial^2 T}{\partial x^2}
 ]
+$$
 
 during training.
 
